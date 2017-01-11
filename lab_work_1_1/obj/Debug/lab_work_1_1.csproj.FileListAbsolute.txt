@@ -1,0 +1,25 @@
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\bin\Debug\lab_work_1_1.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\bin\Debug\lab_work_1_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\bin\Debug\lab_work_1_1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.exe
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.pdb
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.LoginDialog.resources
+c:\users\admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.SettingsDialog.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.MainForm.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.ExzamDialog.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.ExzamResults.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\bin\Debug\lab_work_1_1.exe.config
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\bin\Debug\lab_work_1_1.exe
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\bin\Debug\lab_work_1_1.pdb
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.csprojResolveAssemblyReference.cache
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.ExzamDialog.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.ExzamResults.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.LoginDialog.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.MainForm.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.Properties.Resources.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.SettingsDialog.resources
+C:\Users\proda\Documents\GitHub\projects\Работы\WinForms\lab_work_1_1\lab_work_1_1\obj\Debug\lab_work_1_1.csproj.GenerateResource.Cache
